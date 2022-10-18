@@ -7,8 +7,8 @@
 
 There are two ways to use the lab sheet, you can either:
 
-- [create a new repo from this template](https://github.com/UoB-CS-IPCV/Lab3-Coin-Counter-Challenge/generate) - **this is the recommended way**
-- download a [zip file](https://github.com/UoB-CS-IPCV/Lab3-Coin-Counter-Challenge/archive/master.zip)
+- [create a new repo from this template](https://github.com/UoB-CS-IPCV/Lab4-face-detection/generate) - **this is the recommended way**
+- download a [zip file](https://github.com/UoB-CS-IPCV/Lab4-face-detection/archive/master.zip)
 
 ## Overview
 
