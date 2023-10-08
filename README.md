@@ -66,7 +66,7 @@ The predicted box is set as true prediction when its IOU > threshold. This thres
 <details>
     <summary>Hint3</summary>
     
-$$ \text{F1-score} \ \ F_1 = 2 \frac{\text{precision} \cdot \text{recall}}{\text{precision} + \text{recall}}  $$
+$$\text{F1-score} \ \ F_1 = 2 \frac{\text{precision} \cdot \text{recall}}{\text{precision} + \text{recall}}  $$
 
 </details>
 
