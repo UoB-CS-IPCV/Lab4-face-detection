@@ -35,8 +35,8 @@ This lab will ask you to run and understand the usage of the Viola-Jones detecto
 
 - We prepare ground truth in form of bounding box `(x,y,width,height)` coordinates for all valid frontal faces and store these annotations in `groundtruth.txt`.
 - In `face.py`, modify `readGroundtruth` to produce bounding boxes of the ground truth.
-- Then test the detector’s performance (with the given parameters as provided by `face.py`) on five given example images: `face1.jpg`, `face2.jpg`, `face3.jpg`, `face4.jpg` and `face5.jpg`. 
-- Produce the five result images with 
+- Then test the detector’s performance (with the given parameters as provided by `face.py`) on six given example images: `face1.jpg`, `face2.jpg`, `face3.jpg`, `face4.jpg`, `face5.jpg` and `face6.jpg`. 
+- Produce the six result images with 
   * bounding boxes of the ground truth (in red) 
   * and actually detected instances (in green) 
   * drawn around frontal faces
