@@ -21,7 +21,8 @@ This lab will ask you to run and understand the usage of the Viola-Jones detecto
 - Run detector using:
 	`python face.py -n images/face1.jpg`
 - The program outputs the number of faces found to the console and the resulting detections are finally visualised in the produced output image called `detected.jpg`. 
-- Play around parameters of Viola-Jones object detector to achieve better performance
+- Play around parameters of Viola-Jones object detector to achieve better performance.
+- Some images might need pre-processing.
 
 <details>
     <summary>Hint</summary>
