@@ -75,7 +75,7 @@ if not (type(frame) is np.ndarray):
 
 # 2. Load the Strong Classifier in a structure called `Cascade'
 model = cv2.CascadeClassifier()
-if not model.load(cv2.samples.findFile(cascade_name)):  # you might need only `if not model.load(cascade_name):` (remove cv2.samples.findFile)
+if not model.load(cascade_name): # if got error, you might need `if not model.load(cv2.samples.findFile(cascade_name)):' instead
     print('--(!)Error loading cascade model')
     exit(0)
 
